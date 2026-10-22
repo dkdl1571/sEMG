@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,F1-score
+SVM (RBF),0.8242,0.8235,0.8242,0.8228
+Random Forest,0.8274,0.8263,0.8274,0.8264
+k-NN (k=5),0.7832,0.7857,0.7832,0.7824
